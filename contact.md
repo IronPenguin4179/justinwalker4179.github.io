@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/color.png"
 ---
 
 Feel free to contact me if you have any interest or questions on my work and posts.
@@ -13,5 +12,5 @@ Feel free to contact me if you have any interest or questions on my work and pos
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
-  <input type='submit' value='Send Message' />
+  <input type='submit' value='Send Message' class="button"/>
 </form>

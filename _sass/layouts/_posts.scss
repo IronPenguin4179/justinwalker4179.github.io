@@ -47,3 +47,10 @@ header {
     @extend %padding-regular;
   }
 }
+
+input[type="text"], input[type="email"], textarea {
+    display: block;
+    min-width: 50%;
+    margin-top: 1em;
+    padding: .5em .75em;
+}
