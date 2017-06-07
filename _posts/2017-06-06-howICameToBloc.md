@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Came To Bloc
-feature-img: 
+feature-img: Bloc-logo-rectangle-grey.jpg
 ---
 
 * When I left high school, I wanted to be an engineer. I figured I was good at physics and math, and engineering is where those two best met. I took a job working for a civil engineering firm as a lab tech. I did experiements on soil to determine its properties and provide data for the engineers. I spent a lot of time working with and observing civil engineers and the types of things they spent their time on. On occasion the engineers might consult me for help on a special experiement they needed to design, and I loved coming up with creative solutions to problems with no one correct answer. I was also taking college classes at the same time and had my first programming class as a requirement for engineering. It was a C++ for Engineering class. I got my first ever experience with code and found myself looking forward to the homework as an opportunity to create something, a puzzle to be solved, a game to be won. The teachers taught programming as a tool that engineers could use for data processing, so proper form wasn't emphasized. The class wasn't designed to lead into anything, so I didn't go any farther with it for a while.
