@@ -54,3 +54,8 @@ input[type="text"], input[type="email"], textarea {
     margin-top: 1em;
     padding: .5em .75em;
 }
+
+.excerpt p,
+.post-content p {
+  text-indent: 2em;
+}
