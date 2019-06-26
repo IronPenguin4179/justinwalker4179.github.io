@@ -1,9 +1,11 @@
 ---
 layout: post
-title: pong
+title: Pong
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: pong
+short-description: Pong game made with JS
 ---
 Summary:
-Realize is a completely Python program designed to scan through a project and all its non standard lib imports to find class names, locations, and methods.
+Game of pong made entirely with JavaScript.
+
+[Github source](https://github.com/IronPenguin4179/pong)
