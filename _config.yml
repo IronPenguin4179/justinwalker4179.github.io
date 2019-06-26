@@ -7,7 +7,7 @@ theme_settings:
   # Meta
   title: Justin Walker
   avatar: avatar.png
-  gravatar: # Email MD5 hash
+  gravatar: "jrwalker314@yahoo.com"
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
