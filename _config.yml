@@ -12,8 +12,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Developer, Gamer, Thinker</h1>
-  header_text_feature_image:
+     <h1>Imaginative, Focused, Resilient</h1>
+  header_text_feature_image: img/header.jpg
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 

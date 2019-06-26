@@ -2,7 +2,7 @@
 layout: post
 title: Flixors
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
+thumbnail-path: "img/imdb.png"
 short-description: IMDB clone made with React.js
 ---
 Flixors is an IMDB clone made with React.js. Designed as a final project to use any framework to make
